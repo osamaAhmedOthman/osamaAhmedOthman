@@ -1,19 +1,8 @@
 # 💫 About Me
 AI Engineer focused on taking LLM systems from prototype to production: stateful multi-agent workflows, RAG pipelines, and end-to-end MLOps. Building applied AI across finance, markets, energy, and education.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Osama-Othman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-othman-a78141368)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmanosamaahmed@gmail.com)
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Financial-Agent**](https://github.com/osamaAhmedOthman/Financial-agent) | Context-aware AI auditor for Egyptian tax compliance: reconciles LLM reasoning across invoices and financial statements, with compliance scoring and violation reports | LangGraph · RAG · Pinecone · Groq · LangSmith · Streamlit |
-| [**Energy Demand Predictor**](https://github.com/osamaAhmedOthman/energy-demand-predictor) | Hour-by-hour Spanish electricity demand forecasting (R² 0.99, 1.12% MAPE), served as an API with tracked experiments and automated CI/CD | FastAPI · MLflow · Docker · pytest · GitHub Actions |
-| [**EGX Analyst**](https://github.com/osamaAhmedOthman/Egx-analyst) | Predicts next-day direction for 5 Egyptian Exchange tickers, then cross-checks the signal against live news with an agent | XGBoost · LightGBM · RandomForest · LangGraph · Groq |
-| [**Faculty Assistant**](https://github.com/osamaAhmedOthman/faculty-assistant) | Bilingual (Arabic/English) RAG assistant for university regulations, built around evaluation methodology, guardrails, and LLM reliability | RAG · Evaluation · Guardrails |
 
 ---
 
